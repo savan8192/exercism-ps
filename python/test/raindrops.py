@@ -19,3 +19,5 @@ def my_function(n):
     else:
         s = str(n)
     print(s)
+
+my_function(105)
